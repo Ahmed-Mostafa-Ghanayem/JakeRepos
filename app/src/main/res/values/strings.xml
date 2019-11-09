@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Repositories</string>
+    <string name="some_error_occurred_click_to_try_again">Some error occurred click to try again</string>
+</resources>

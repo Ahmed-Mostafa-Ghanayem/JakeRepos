@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="toolbar" type="id" />
+    <item name="navHostFragment" type="id" />
+    <item name="nav_graph" type="id" />
+    <item name="repositoriesFragment" type="id" />
+    <item name="tvError" type="id" />
+    <item name="tvRepoName" type="id" />
+    <item name="tvRepoStars" type="id" />
+    <item name="tvRepoForks" type="id" />
+    <item name="tvRepoSize" type="id" />
+    <item name="rvRepos" type="id" />
+    <item name="tvRepoLanguage" type="id" />
+    <item name="progressContainer" type="id" />
+    <item name="errorContainer" type="id" />
+    <item name="srlRepos" type="id" />
+    <item name="tvRepoDescription" type="id" />
+    <item name="tvLoadMoreError" type="id" />
+    <item name="barrier" type="id" />
+    <item name="loadingMoreContainer" type="id" />
+</resources>
